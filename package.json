@@ -16,5 +16,13 @@
     "dotenv": "^17.2.2",
     "express": "^5.1.0",
     "multer": "^2.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/easterneas/avpn-w6-s5-chatbot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/easterneas/avpn-w6-s5-chatbot/issues"
+  },
+  "homepage": "https://github.com/easterneas/avpn-w6-s5-chatbot#readme"
 }

@@ -118,5 +118,5 @@ app.post('/chat', async (req, res) => {
 const port = 3000;
 
 app.listen(port, () => {
-    console.log("I LOVE YOU", port);
+    console.log("Gemini Chatbot connected to port:", port);
 });
